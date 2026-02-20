@@ -64,7 +64,7 @@ The system throws explicit errors instead of silently correcting data.
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_key_here
 python app.py
----
+```
 
 ## Engineering Philosophy
 
